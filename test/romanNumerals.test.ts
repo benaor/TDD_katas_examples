@@ -56,5 +56,4 @@ describe("RomanNumerals tests", () => {
   it("should return MMCMLVII when sending a 2957 ", () => {
     expect(romanNumerals(2957)).toBe("MMCMLVII");
   });
-
 });
