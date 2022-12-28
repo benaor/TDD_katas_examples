@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --forceExit",
-    "test:watch": "jest --forceExit --watch"
+    "test:watch": "jest --forceExit --watch",
+    "test:coverage": "jest --forceExit --watch --coverage"
   },
   "keywords": [],
   "author": "",
